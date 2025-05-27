@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Details>
+  <Contact>
+    <UserName>varshith</UserName>
+    <Role>Staff 2 User</Role>
+    <Password>2z5QiqtfZW5Foe3skCKMGA==</Password>
+  </Contact>
+  <Contact>
+    <UserName>varshith1</UserName>
+    <Role>Member User</Role>
+    <Password>8xhag7K/41hAwQ7GyKvilA==</Password>
+  </Contact>
+  <Contact>
+    <UserName>varshith2</UserName>
+    <Role>Member User</Role>
+    <Password>/clbXXt2dHi0ozy99Jzr9g==</Password>
+  </Contact>
+  <Contact>
+    <UserName>admin</UserName>
+    <Role>Admin</Role>
+    <Password>628O+SksGHWQ9iSk3jVjsA==</Password>
+  </Contact>
+  <Contact>
+    <UserName>staff1</UserName>
+    <Role>Staff 1 User</Role>
+    <Password>M0FqBftD/1OI60OnLleuHw==</Password>
+  </Contact>
+  <Contact>
+    <UserName>staff2</UserName>
+    <Role>Staff 2 User</Role>
+    <Password>JMEGPTsJYVXjXbjfxD9aBQ==</Password>
+  </Contact>
+</Details>

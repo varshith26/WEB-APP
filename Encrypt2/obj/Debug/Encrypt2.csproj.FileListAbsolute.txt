@@ -1,0 +1,6 @@
+C:\Users\varsh\source\repos\Project5\Encrypt2\bin\Debug\Encrypt2.dll
+C:\Users\varsh\source\repos\Project5\Encrypt2\bin\Debug\Encrypt2.pdb
+C:\Users\varsh\source\repos\Project5\Encrypt2\obj\Debug\Encrypt2.csproj.AssemblyReference.cache
+C:\Users\varsh\source\repos\Project5\Encrypt2\obj\Debug\Encrypt2.csproj.CoreCompileInputs.cache
+C:\Users\varsh\source\repos\Project5\Encrypt2\obj\Debug\Encrypt2.dll
+C:\Users\varsh\source\repos\Project5\Encrypt2\obj\Debug\Encrypt2.pdb

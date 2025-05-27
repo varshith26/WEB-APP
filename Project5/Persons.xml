@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Persons>
+	<Person>
+  		<Name>
+  			<First>Ammar</First>
+  			<Last>Hafeez</Last>
+  		</Name>
+  		<Credential>
+  			<Id>ahafeez</Id>
+  			<Password Encryption="yes"> AmmarAbdul123!</Password>
+  		</Credential>
+  		<Phone>
+  			<Work>8142526486</Work>
+  			<Cell Provider="Airtel">9382033548</Cell>
+  		</Phone>
+  		<Category>Friend</Category>
+	</Person>
+
+	<Person>
+  		<Name>
+  			<First>Vishnu</First>
+  			<Last>Vardhan</Last>
+  		</Name>
+  		<Credential>
+  			<Id>vvardhan</Id>
+  			<Password Encryption="yes">IlikeIceCream</Password>
+  		</Credential>
+  		<Phone>
+  			<Work>5288634896</Work>
+  			<Cell Provider="Jio">3658965475</Cell>
+  		</Phone>
+  		<Category>Friend</Category>
+	</Person>
+
+	<Person>
+  		<Name>
+  			<First>Rithvik</First>
+  			<Last>Rangeneni</Last>
+		</Name>
+  		<Credential>
+  			<Id>rangi</Id>
+  			<Password Encryption="yes">IamRangi345</Password>
+  		</Credential>
+  		<Phone>
+  			<Work>6307864125</Work>
+  			<Cell Provider="Vodafone">5289745162</Cell>
+  		</Phone>
+  		<Category>Friend</Category>
+	</Person>
+
+	<Person>
+  		<Name>
+  			<First>Staya</First>
+  			<Last>Charan</Last>
+  		</Name>
+  		<Credential>
+  			<Id>scharan1</Id>
+  			<Password Encryption="yes">ThisisSatya12</Password>
+  		</Credential>
+  		<Phone>
+  			<Work>9674521478</Work>
+  			<Cell Provider="Uninor">2541365479</Cell>
+  		</Phone>
+  		<Category>Friend</Category>
+	</Person>
+
+	<Person>
+  		<Name>
+  			<First>Meghanath</First>
+  			<Last>Singh</Last>
+  		</Name>
+  		<Credential>
+  			<Id>meghssin</Id>
+  			<Password Encryption="yes">HeyMeghs3499</Password>
+  		</Credential>
+  		<Phone>
+  			<Work>3654789611</Work>
+  			<Cell>5247896341</Cell>
+ 		</Phone>
+  		<Category>Freind</Category>
+	</Person>
+
+	<Person>
+  		<Name>
+  			<First>Wanda</First>
+  			<Last>vision</Last>
+ 		</Name>
+  		<Credential>
+  			<Id>wvision</Id>
+  			<Password Encryption="yes">HeythereisWanda</Password>
+  		</Credential>
+  		<Phone>
+  			<Work>3581475963</Work>
+  			<Cell>3658214598</Cell>
+  		</Phone>
+  		<Category>Work</Category>
+	</Person>
+
+	<Person>
+  		<Name>
+  			<First>Doctor</First>
+  			<Last>Strange</Last>
+  		</Name>
+  		<Credential>
+  			<Id>Dstrange</Id>
+  			<Password Encryption="yes">TisisStrange007</Password>
+ 		</Credential>
+  		<Phone>
+  			<Work>5236478599</Work>
+  			<Cell>8866652145</Cell>
+  		</Phone>
+  		<Category>Work</Category>
+	</Person>
+
+	<Person>
+  		<Name>
+  			<First>Spider</First>
+  			<Last>Man</Last>
+  		</Name>
+ 		<Credential>
+  			<Id>spidey</Id>
+  			<Password Encryption="yes">Ihavesuperpowers!</Password>
+ 		</Credential>
+  		<Phone>
+  			<Work>6662221458</Work>
+  			<Cell Provider="TMobile">5552223614</Cell>				</Phone>
+  		<Category>Work</Category>	
+	</Person>
+
+	<Person>
+  		<Name>
+  			<First>The</First>
+  			<Last>vision</Last>
+  		</Name>
+  		<Credential>
+  			<Id>tvision</Id>
+  			<Password Encryption="yes">IamSmartAI879</Password>
+  		</Credential>
+  		<Phone>
+  			<Work>5521478652</Work>
+  			<Cell Provider="Verizon">8889995471</Cell>
+  		</Phone>
+  		<Category>Work</Category>
+	</Person>
+
+	<Person>
+  		<Name>
+  			<First>Black</First>
+  			<Last>widow</Last>
+  		</Name>
+  		<Credential>
+  			<Id>bwidow</Id>
+  			<Password Encryption="yes">IamTrainedinhell</Password>
+  		</Credential>
+  		<Phone>
+  			<Work>6587452361</Work>
+  			<Cell Provider="Mint">5214563877</Cell>
+  		</Phone>
+  		<Category>Work</Category>
+	</Person>
+
+	<Person>
+  		<Name>
+  			<First>Bat</First>
+  			<Last>Man</Last>
+  		</Name>
+  		<Credential>
+  			<Id>batman</Id>
+  			<Password Encryption="yes">IamveryRich</Password>
+  		</Credential>
+  		<Phone>
+  			<Work>9999999963</Work>
+  			<Cell Provider="TMobile">8888888884</Cell>
+  		</Phone>
+  		<Category>Family</Category>
+	</Person>
+
+	<Person>
+  		<Name>
+  			<First>Super</First>
+  			<Last>Man</Last>
+  		</Name>
+  		<Credential>
+  			<Id>superm</Id>
+  			<Password Encryption="yes">Icanshootlaser</Password>
+  		</Credential>
+  		<Phone>
+  			<Work>123547896</Work>
+  			<Cell Provider="Airtel">3654129874</Cell>
+  		</Phone>
+  		<Category>Family</Category>
+	</Person>
+
+	<Person>
+  		<Name>
+  			<First>The</First>
+  			<Last>Venom</Last>
+  		</Name>
+  		<Credential>
+  			<Id>venoms</Id>
+  			<Password Encryption="yes">Ieatpeople</Password>
+  		</Credential>
+  		<Phone>
+  			<Work>6863656261</Work>
+  			<Cell>55522525417</Cell>
+  		</Phone>
+  		<Category>Family</Category>
+	</Person>
+
+	<Person>
+ 		<Name>
+  			<First>John</First>
+  			<Last>Wick</Last>
+  		</Name>
+  		<Credential>
+  			<Id>johnny</Id>
+  			<Password Encryption="yes">ILovemyDog</Password>
+  		</Credential>
+  		<Phone>
+  			<Work>2531469874</Work>
+  			<Cell Provider="Uninor">7548151612</Cell>
+  		</Phone>
+  		<Category>Family</Category>
+	</Person>
+
+	<Person>
+  		<Name>
+  			<First>Otto</First>
+  			<Last>Man</Last>
+  		</Name>
+  		<Credential>
+  			<Id>otto1</Id>
+  			<Password Encryption="yes">Iamveryold11</Password>
+  		</Credential>
+  		<Phone>
+  			<Work>2536147895</Work>
+  			<Cell>9695989794</Cell>
+  		</Phone>
+  		<Category>Family</Category>
+	</Person>
+
+</Persons>
+
+
